@@ -10,7 +10,6 @@ from sklearn.metrics import mean_squared_error
 from sklearn.metrics import r2_score
 import numpy as np
 import plotly.graph_objects as go
-from pmdarima import auto_arima
 from sklearn.model_selection import train_test_split
 from datetime import timedelta
 from statsmodels.tsa.statespace.sarimax import SARIMAX
