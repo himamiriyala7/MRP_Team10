@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
  
  
 # Load the final dataset
-df = pd.read_csv("c:\\Users\\hmiri\\project\\3resource\\final_dataset_3_5000.csv")
+df = pd.read_csv("final_dataset_3_5000.csv")
  
 # Connect to SQLite database (or create if it doesn't exist)
 conn = sqlite3.connect("hospital_data2.db")
