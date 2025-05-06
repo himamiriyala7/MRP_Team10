@@ -1,0 +1,15 @@
+pandas
+openpyxl
+streamlit
+statsmodels
+plotly
+numpy
+scipy
+geopy
+gdown
+geopandas
+folium
+streamlit-folium
+requests
+scikit-learn
+matplotlib
